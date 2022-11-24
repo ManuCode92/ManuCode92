@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManuCode92
 - 👀 I’m interested in looking forward to start as a junior developer.
-- 🌱 another github https://github.com/damjmbj
 - 📫 How to reach me j.m.justiniano@hotmail.com
 
 <!---
